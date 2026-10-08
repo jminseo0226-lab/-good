@@ -1,0 +1,6 @@
+{
+  "name": "역사 온(HistoriOn) - 가야사·고대사 AI 토론 준비 스튜디오",
+  "description": "고등학교 한국사 가야사·고대사 논쟁을 다각도로 탐구하고, AI 악마의 대변인 및 사학자 페르소나 인터뷰를 통해 학생 주도형 토론 논리를 탄탄히 다듬는 교육용 토론 준비 플랫폼입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
